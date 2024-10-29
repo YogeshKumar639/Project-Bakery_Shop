@@ -15,3 +15,5 @@ My Project Bakery Shop Web development Front end use-Html, css, javascript, Boot
 ![croissant cake1](https://github.com/user-attachments/assets/30e15f4d-92d1-428b-8747-eab3e6e361d8)
 
 ![cup cake](https://github.com/user-attachments/assets/c6879aeb-b00a-40a4-9c55-ad842ab9f86d)
+
+![fruit cake](https://github.com/user-attachments/assets/7b8ae073-a4af-48f3-b424-4f3a73f03be2)
