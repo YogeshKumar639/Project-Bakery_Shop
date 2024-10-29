@@ -10,5 +10,6 @@ My Project Bakery Shop Web development Front end use-Html, css, javascript, Boot
 
 ![chocolate cake](https://github.com/user-attachments/assets/4855bd8a-b742-4e1b-8016-885385a6f959)
 
-
 ![coffee cake](https://github.com/user-attachments/assets/cf9afd3d-6c90-4d53-9086-74a4b5cca01c)
+
+![croissant cake1](https://github.com/user-attachments/assets/30e15f4d-92d1-428b-8747-eab3e6e361d8)
